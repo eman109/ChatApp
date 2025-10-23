@@ -15,6 +15,8 @@ real-time messaging, and modern state management patterns.
 - **Dependency Injection:** GetIt
 - **Backend:** Supabase (Real-time DB, Auth)
 - **Language:** Dart/Flutter
+- **Routing:** Flutter Navigator
+
 
 **Features Implemented:**
 - Real-time messaging system
