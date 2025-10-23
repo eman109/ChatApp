@@ -1,16 +1,24 @@
-# chat
+# Real-Time Chat Application
 
-A new Flutter project.
+A Flutter-based chat application demonstrating clean architecture principles, 
+real-time messaging, and modern state management patterns.
 
-## Getting Started
+## Technical Highlights
 
-This project is a starting point for a Flutter application.
+**Architecture:**
+- Clean Architecture with feature-based structure
+- MVVM pattern implementation
+- SOLID principles applied throughout
 
-A few resources to get you started if this is your first Flutter project:
+**Tech Stack:**
+- **State Management:** Cubit/Bloc
+- **Dependency Injection:** GetIt
+- **Backend:** Supabase (Real-time DB, Auth)
+- **Language:** Dart/Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Features Implemented:**
+- Real-time messaging system
+- User authentication (Login/Register)
+- Contact management
+- Unread message tracking
+- Real-time data synchronization
